@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/Core0.cpp.o -c /home/ammar/Documents/GUI/src/Core0.cpp",
+  "file": "/home/ammar/Documents/GUI/src/Core0.cpp",
+  "output": "CMakeFiles/GUI.dir/src/Core0.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/Core1.cpp.o -c /home/ammar/Documents/GUI/src/Core1.cpp",
+  "file": "/home/ammar/Documents/GUI/src/Core1.cpp",
+  "output": "CMakeFiles/GUI.dir/src/Core1.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/Text.cpp.o -c /home/ammar/Documents/GUI/src/Text.cpp",
+  "file": "/home/ammar/Documents/GUI/src/Text.cpp",
+  "output": "CMakeFiles/GUI.dir/src/Text.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/Thread.cpp.o -c /home/ammar/Documents/GUI/src/Thread.cpp",
+  "file": "/home/ammar/Documents/GUI/src/Thread.cpp",
+  "output": "CMakeFiles/GUI.dir/src/Thread.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/UI.cpp.o -c /home/ammar/Documents/GUI/src/UI.cpp",
+  "file": "/home/ammar/Documents/GUI/src/UI.cpp",
+  "output": "CMakeFiles/GUI.dir/src/UI.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/Window.cpp.o -c /home/ammar/Documents/GUI/src/Window.cpp",
+  "file": "/home/ammar/Documents/GUI/src/Window.cpp",
+  "output": "CMakeFiles/GUI.dir/src/Window.cpp.o"
+},
+{
+  "directory": "/home/ammar/Documents/GUI/build",
+  "command": "/usr/bin/clang++ -I/home/ammar/Documents/GUI/include -I/home/ammar/Documents/GUI/external/json/include -isystem /usr/include/SDL3 -g -std=gnu++20 -o CMakeFiles/GUI.dir/src/main.cpp.o -c /home/ammar/Documents/GUI/src/main.cpp",
+  "file": "/home/ammar/Documents/GUI/src/main.cpp",
+  "output": "CMakeFiles/GUI.dir/src/main.cpp.o"
+}
+]

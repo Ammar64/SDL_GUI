@@ -1,0 +1,3 @@
+/home/ammar/Documents/GUI/build/CMakeFiles/GUI.dir
+/home/ammar/Documents/GUI/build/CMakeFiles/edit_cache.dir
+/home/ammar/Documents/GUI/build/CMakeFiles/rebuild_cache.dir

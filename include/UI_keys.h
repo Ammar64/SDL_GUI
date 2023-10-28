@@ -1,0 +1,12 @@
+#define NORMAL "normal"
+#define HOVER "hover"
+#define PRESSED "pressed"
+
+#define XPOS "x"
+#define YPOS "y"
+#define XINVERT "x-invert"
+#define YINVERT "y-invert"
+#define WIDTH "width"
+#define HEIGHT "height"
+#define COLOR "color"
+#define BACKGROUND_COLOR "background-color"
